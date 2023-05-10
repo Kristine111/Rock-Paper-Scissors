@@ -44,6 +44,12 @@ p {
 }
 .image {
     height: 350px;
-    width: auto;
+    width: auto;   
+}
+
+button {
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    padding: 25px;
     
 }
